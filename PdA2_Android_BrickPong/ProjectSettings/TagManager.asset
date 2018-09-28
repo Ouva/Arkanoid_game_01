@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Player
+    uniqueID: 54895053
+    locked: 0
+  - name: Power Ups
+    uniqueID: 1857382809
+    locked: 0
+  - name: Tiempo y puntuacion
+    uniqueID: 2395126195
+    locked: 0
+  - name: Botones
+    uniqueID: 3553787537
+    locked: 0
